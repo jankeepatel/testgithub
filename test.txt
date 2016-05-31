@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 Hey This is testing file of git
-=======
-this is test file in github.
->>>>>>> b9a4e553457e4c6606e75bf8e5c3434223ca91d3
+
